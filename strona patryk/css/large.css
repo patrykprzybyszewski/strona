@@ -1,0 +1,14 @@
+
+
+.single_place{
+    width: 24%;
+}
+
+.single_place img{
+    height: 125px;
+    object-fit:cover;
+}
+
+.map iframe{
+    max-width: 950px;
+}
